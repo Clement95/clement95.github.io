@@ -1,0 +1,399 @@
+
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml/">
+<head>
+	<meta charset="utf-8">
+	<title>HelixxMine</title>
+	<meta name="description" content="">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="shortcut icon" href="https://helixxmine.com/wp-content/themes/helixxmine/img/favicon.ico" type="image/x-icon" />
+	<!-- Chrome, Firefox OS and Opera -->
+	<meta name="theme-color" content="#0d0c0c">
+	<!-- Windows Phone -->
+	<meta name="msapplication-navbutton-color" content="#0d0c0c">
+	<!-- iOS Safari -->
+	<meta name="apple-mobile-web-app-status-bar-style" content="#0d0c0c">
+	<link rel="stylesheet" href="https://helixxmine.com/wp-content/themes/helixxmine/css/jquery-ui.css">
+	<link rel="stylesheet" href="https://helixxmine.com/wp-content/themes/helixxmine/main.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://helixxmine.com/wp-content/themes/helixxmine/styles.css?v=3">
+
+	<script src="https://helixxmine.com/wp-content/themes/helixxmine/js/jquery.min.js"></script>
+	<script src="https://helixxmine.com/wp-content/themes/helixxmine/js/jquery-ui.js"></script>
+	<script src="https://helixxmine.com/wp-content/themes/helixxmine/js/jquery.ui.touch-punch.min.js"></script>
+	<script type="text/javascript" src="https://helixxmine.com/wp-content/themes/helixxmine/js/bootstrap.min.js"></script>
+	<script src="https://helixxmine.com/wp-content/themes/helixxmine/js/common.js"></script>
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://helixxmine.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookielawinfo-style-css'  href='https://helixxmine.com/wp-content/plugins/cookie-law-info/css/cli-style.css?ver=1.5.4' type='text/css' media='all' />
+            <script>
+                if (document.location.protocol != "https:") {
+                    document.location = document.URL.replace(/^http:/i, "https:");
+                }
+            </script>
+            <script type='text/javascript' src='https://helixxmine.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://helixxmine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://helixxmine.com/wp-content/plugins/cookie-law-info/js/cookielawinfo.js?ver=1.5.4'></script>
+<link rel='https://api.w.org/' href='https://helixxmine.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://helixxmine.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://helixxmine.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel="alternate" href="https://helixxmine.com/" hreflang="en" />
+<link rel="alternate" href="https://helixxmine.com/pt/" hreflang="pt" />
+<link rel="alternate" href="https://helixxmine.com/es/" hreflang="es" />
+<link rel="alternate" href="https://helixxmine.com/ru/" hreflang="ru" />
+<link rel="alternate" href="https://helixxmine.com/vi/" hreflang="vi" />
+<link rel="alternate" href="https://helixxmine.com/id_id/" hreflang="id" />
+<link rel="alternate" href="https://helixxmine.com/zh/" hreflang="zh" />
+<link rel="alternate" href="https://helixxmine.com/ms/" hreflang="ms" />
+<link rel="alternate" href="https://helixxmine.com/km/" hreflang="km" />
+<link rel="alternate" href="https://helixxmine.com/th/" hreflang="th" />
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119641759-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-119641759-1');
+	</script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MXLXPSH');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXLXPSH"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header>
+	<div id="top_header">
+		<div class="container2">
+
+			<div class="help_heder">
+				<a href="mailto:support@helixxmine.com" class="email"><i class="far fa-envelope"></i> support@helixxmine.com</a>
+				<a href="tel:+442039363193" class="tel"><i class="fas fa-phone"></i> +44 20 3936 3193</a>
+				<a href="skype:live:support_60662?chat" class="skype"> <i class="fab fa-skype"></i> Skype Support</a>
+			</div>
+			<div class="float_right">
+				<div class="login_box">
+					<a href="http://user.helixxmine.com/login" class="login_btn btn">Login</a>
+					<a href="http://user.helixxmine.com/reg" class="sign_btn btn">Sign Up</a>
+				</div>
+				<div class="lang_box">
+					<ul>	<li class="lang-item lang-item-2 lang-item-en lang-item-first current-lang"><a lang="en-GB" hreflang="en-GB" href="https://helixxmine.com/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAflJREFUeNpinDRzn5qN3uFDt16+YWBg+Pv339+KGN0rbVP+//2rW5tf0Hfy/2+mr99+yKpyOl3Ydt8njEWIn8f9zj639NC7j78eP//8739GVUUhNUNuhl8//ysKeZrJ/v7z10Zb2PTQTIY1XZO2Xmfad+f7XgkXxuUrVB6cjPVXef78JyMjA8PFuwyX7gAZj97+T2e9o3d4BWNp84K1NzubTjAB3fH0+fv6N3qP/ir9bW6ozNQCijB8/8zw/TuQ7r4/ndvN5mZgkpPXiis3Pv34+ZPh5t23//79Rwehof/9/NDEgMrOXHvJcrllgpoRN8PFOwy/fzP8+gUlgZI/f/5xcPj/69e/37//AUX+/mXRkN555gsOG2xt/5hZQMwF4r9///75++f3nz8nr75gSms82jfvQnT6zqvXPjC8e/srJQHo9P9fvwNtAHmG4f8zZ6dDc3bIyM2LTNlsbtfM9OPHH3FhtqUz3eXX9H+cOy9ZMB2o6t/Pn0DHMPz/b+2wXGTvPlPGFxdcD+mZyjP8+8MUE6sa7a/xo6Pykn1s4zdzIZ6///8zMGpKM2pKAB0jqy4UE7/msKat6Jw5mafrsxNtWZ6/fjvNLW29qv25pQd///n+5+/fxDDVbcc//P/zx/36m5Ub9zL8+7t66yEROcHK7q5bldMBAgwADcRBCuVLfoEAAAAASUVORK5CYII=" title="English" alt="English" /><span style="margin-left:0.3em;">English</span></a></li>
+	<li class="lang-item lang-item-6 lang-item-pt"><a lang="pt-PT" hreflang="pt-PT" href="https://helixxmine.com/pt/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAG8SURBVHjaYmSIZGD4wgAF/xgYWBj+boQysSKAAGJh+MRQnVoNUgEE///9ZfzLoPiX4e8fxj9/mP/8Yfr9+/+fP/9h5JdNmwACiIWBCaj4/5P3T7mY/xoJ/9UR/v0n8O+f17/Zlv/+//73/1+////+9f/XL6BqRllZoA0AAcQCNvv/339/C03+8v/8w7bk7+/vv/+7/P4S95ur+xdY9W+IBobfv4EaAAKICeiuv////vnz58PX3xxb/7BlN3/K7Ph1WoSR/fcfhl//f4KN/wW1BGg6QAAxMfxi+PP37++/v1kYfn//+usnE+cHCbWfTKz/mH7+ZgUpQmj48wdoA0AAsQA1/P0HZP458/qXqvNfjdnVItxy3wNvApUIvwPb8BvqJEawkwACiIXhDwPQ+F9/f+2890dY6/cnrycCb++z3frNfOwX01eEagZgKAHdzcAAEEAgG4DGA/W8+fO79+Rvdt5f2+b++sP+m+kdWDVEwx+gBmBY/wX6ASCAWBi+Mfz+80eSX/L3n99AzwBDm0H2NwtQHS/QapDBIPT3LwQBnQQQQIwMxgwM7xgYfjAArQKRTAyvP2OPYwgACDAAjtdGduN8tIgAAAAASUVORK5CYII=" title="Português" alt="Português" /><span style="margin-left:0.3em;">Português</span></a></li>
+	<li class="lang-item lang-item-16 lang-item-es"><a lang="es-ES" hreflang="es-ES" href="https://helixxmine.com/es/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFnSURBVHjaYvzPgAD/UNlYEUAAmuTYAAAQhAEYqF/zFbe50RZ1cMmS9TLi0pJLRjZohAMTGFUN9HdnHgEE1sDw//+Tp0ClINW/f0NIKPoFJH/9//ULyGaUlQXaABBALAx/Gf4zAt31F4i+ffj3/cN/XrFfzOx//v///f//LzACM/79ZmD8/e8TA0AAMYHdDVT958vXP38nMDB0s3x94/Tj5y+YahhiAKLfQKUAAcQEdtJfoDHMF2L+vPzDmFXLelf551tGFOOhev4A/QgQQExgHwAd8IdFT/Wz6j+GhlpmXSOW/2z///8Eq/sJ18Dw/zdQA0AAMQExxJjjdy9x2/76EfLz4MXdP/i+wsyGkkA3Aw3984cBIIAYfzIwMKel/bt3jwEaLNAwgZIQxp/fDH/+MqqovL14ESCAWICeZvr9h0FSEhSgwBgAygFDEMT+wwAhgQgc4kAEVAwQQIxfUSMSTxxDAECAAQAJWke8v4u1tAAAAABJRU5ErkJggg==" title="Español" alt="Español" /><span style="margin-left:0.3em;">Español</span></a></li>
+	<li class="lang-item lang-item-21 lang-item-ru"><a lang="ru-RU" hreflang="ru-RU" href="https://helixxmine.com/ru/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAE2SURBVHjaYvz69T8DAvz79w9CQVj/0MCffwwAAcQClObiAin6/x+okxHMgPCAbOb//5n+I4EXL74ABBALxGSwagTjPzbAyMgItAQggBg9Pf9nZPx//x7kjL9////9C2QAyf9//qCQQCQkxFhY+BEggFi2b/+nq8v46BEDSPQ3w+8//3//BqFfv9BJeXmQEwACCOSkP38YgHy4Bog0RN0vIOMXVOTPH6Cv/gEEEEgDxFKgHEgDXCmGDUAE1AAQQCybGZg1f/d8//XsH0jTn3+///z79RtE/v4NZfz68xfI/vOX+4/0ZoZFAAHE4gYMvD+3/v2+h91wCANo9Z+/jH9VxBkYAAKIBRg9TL//MEhKAuWAogxgZzGC2CCfgUggAoYdGAEVAwQQ41egu5AQAyoXTQoIAAIMAD+JZR7YOGEWAAAAAElFTkSuQmCC" title="Русский" alt="Русский" /><span style="margin-left:0.3em;">Русский</span></a></li>
+	<li class="lang-item lang-item-26 lang-item-vi"><a lang="vi" hreflang="vi" href="https://helixxmine.com/vi/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFsSURBVHjaYvzPgAD/UNlYEUAAmuTYAAAQhAEYqF/zFbe50RZ1cMmS9TLi0pJLRjZohAMTGFUN9HdnHgEE1sDw//+Tp0ClINW/f4NI9d////3+f+b3/1+////+9f/XL6A4o6ws0AaAAGIBm/0fRTVQ2v3Pf97f/4/9Aqv+DdHA8Ps3UANAALEAMSNQNdDGP3+ALvnf8vv/t9//9X/////7f+uv/4K//iciNABNBwggsJP+/IW4kuH3n//1v/8v+wVSDURmv/57//7/CeokoKFA0wECiAnkpL9/wH4CO+DNr/+VQA1A9PN/w6//j36CVIMRxEkAAQR20m+QpSBXgU0CuSTj9/93v/8v//V/xW+48UBD/zAwAAQQSAMzOMiABoBUswCd8ev/M7A669//OX7///Lr/x+gBlCoAJ0DEEAgDUy//zBISoKNAfoepJNRFmQkyJecfxj4/kDCEIiAigECiPErakTiiWMIAAgwAB4ZUlqMMhQQAAAAAElFTkSuQmCC" title="Tiếng Việt" alt="Tiếng Việt" /><span style="margin-left:0.3em;">Tiếng Việt</span></a></li>
+	<li class="lang-item lang-item-30 lang-item-id_id"><a lang="id-ID" hreflang="id-ID" href="https://helixxmine.com/id_id/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFASURBVHjaYrwvyMzw6S8DGPwD0//ACAj+wNj/kNgAAcTC8P6vUF87UPr/v38M//79//v3/18g+Yfh35//v//++/vn/x8g+v3/N4hxe9YigABiYWAGG/biOQNI6V+wNBj9/f0PqOj3738g1b////rFLCUNtAEggFgY/jIAjYSo/gdWygBU8ec3iP37z7/fv0DsXyARxj9AOQaAAGIBOe7b179fPv3/85cBah5Q6a9/v8HafoOM//frF1CckYf3FwMDQACxCOSmctjY//34EeSef2AEchiY8QfsB4jlf/8yCwiKnT8LEECMf/+CguY/EDCAIW7AxMT0/v17gABi+ffvHyMjI0g9Az7VEFmgLwACiAmoAb9SNG0AAQSyAWgXRA8DDADtZEABQC5IFqgYIIBAGn78+PEPAhjAEAeAaAUIMAD/YnbumkL3sQAAAABJRU5ErkJggg==" title="Bahasa Indonesia" alt="Bahasa Indonesia" /><span style="margin-left:0.3em;">Bahasa Indonesia</span></a></li>
+	<li class="lang-item lang-item-34 lang-item-zh"><a lang="zh-CN" hreflang="zh-CN" href="https://helixxmine.com/zh/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFqSURBVHjaYrzOwPAPjJgYQEDAleHVbhADIvgHLPgHiQ0QQCxAlkR9NW8sw+cV/1gV/7Gb/hV4+vfzhj8Mv/78//Pn/+/f/8AkhH1t0yaAAAJp4I37zyz2lDfu79uqv/++/WYz+cuq/vvLxt8gdb+A5K9/v34B2SyyskBLAAII5JAva/7/+/z367a/f3/8ZuT9+//Pr78vQUrB6n4CSSj6/RuoASCAWEDO/fD3ddEfhv9/OE3/sKj8/n7k9/fDQNUIs/+DVf8HawAIIJCT/v38C3Hr95N/GDh/f94AVvT7N8RUBpjxQAVADQABBNLw/y/Ifwy/f/399ufTOpDBEPf8g5sN0QBEDAwAAQTWABEChgOSA9BVA00E2wAQQCANQBbEif/AzoCqgLkbbBYwWP/+//sXqBYggFhAkfL7D7OkJFCOCSj65zfUeFjwg8z++/ffX5AGoGKAAGI8jhSRyIw/SJH9D4aAYQoQYAA6rnMw1jU2vQAAAABJRU5ErkJggg==" title="中文 (中国)" alt="中文 (中国)" /><span style="margin-left:0.3em;">中文 (中国)</span></a></li>
+	<li class="lang-item lang-item-41 lang-item-ms"><a lang="ms-MY" hreflang="ms-MY" href="https://helixxmine.com/ms/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHNSURBVHjaYmRgOCnIeWHTkh4GBgavqKLPP/UYGP4B0UkGewEIi4HhDxIJEECMgpwzH95nBqref1RdR/0RG9vP9VsNb98T6mgSYWf++5+B4f+/f/9h4MuzZwABADEAzv8Edm6yAABQxskPNS7GDAr2AP79SkHncL1W7GJjCAD5//v8//v6/vv7//r6Axwb3KipAoiFAQT+vXjJo6bExMPx59t35v////7+zSAwexoH85///8HGgwlGZmaV/AKAAGLkZp7+6vm//3+fd0z2Sgjbz/D/z7QFNucvSc1lK+dk+Pnvzx+w8b////nNLCNzfcMGgABiZGA4OmUit6fDdqDB+VWRQCf8Ajth8ypRTuZfYOPB5jMwAG34eO8eQAAxnmRgkMsv//ngEcPv3//+gEwCmvfv12+O358YOdj/AwWBusEkq7z81T17AAKI8ffzp4y8fP///mX4zwB1LMTRQIMhZoNJoBwjC8ubu3cBAojlnqS0aH7+nwcPQCb9+QMyDOImcMiAuBDBv3/ZFBUvHT0KEECM3+/fZxEUhBoDC3UGIAmPATCDASz7+uZNgABi+fXi2Y8nT/4BATBAgAjG+ANmM0D4fyCMf0wMDAABBgDcZ1sWFOFmVAAAAABJRU5ErkJggg==" title="Bahasa Melayu" alt="Bahasa Melayu" /><span style="margin-left:0.3em;">Bahasa Melayu</span></a></li>
+	<li class="lang-item lang-item-46 lang-item-km"><a lang="km" hreflang="km" href="https://helixxmine.com/km/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAG3SURBVHjaYmTg3c/w6x8DBPxhYPgLZEPQHxiJzGAACCAWhl8MDX1qQNb/f0DF/4Hq//79B2T8+fPv91+Gv3/+/fkDYf///fvf6olHAAKIhYHhC8f/X89e/QQqAir88/c/RMUvIPs3SDVQHRD9+vNXWpyDgeENQACxHP7pq/i08tfjx//+ggwBWvH31082CQmg5u93bjP8+fv354//v34Bpdjk5GwZ9gAEEBPI6X9BxjL+/g10AbeBHpsAv0R1lWRdLSsvN4+5KVAQpOHXLwagAgYGgABiAvnoz1+grX+AxjMyCaVncHt4MnBwMnBw8AWFiBSX/Gdh/fPrFwj9+fODgQEggFjANvxhADn2FzMnHxMfH5+rC5OAINBIPk9PJgEBJjZWqPFgGwACiAkYYCB/AYX+/pXq7QMKMbKy/gcCFhZGdvb/DAxyS5YwAn32BxReQOcABBAjA8PCshaTh0++AXX9YWD6/fsvOFj+/gKSf0AIGG6/v/8Gel5Blnvf6lUAAQR0Et+n3+y8IqxgOVAI/oYGPChMQcEBYfz7/+kv0D4RgAAC2rCWARh50IhEQ8gxDUFMAAEGAIw0M61VmortAAAAAElFTkSuQmCC" title="ភាសាខ្មែរ" alt="ភាសាខ្មែរ" /><span style="margin-left:0.3em;">ភាសាខ្មែរ</span></a></li>
+	<li class="lang-item lang-item-57 lang-item-th"><a lang="th" hreflang="th" href="https://helixxmine.com/th/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFWSURBVHjaYvzPgAD/UNlYEUAAisQgBwAQhGGi/pzP8EBvG+BImqbL7pzuUlda9SJ7DMs85NYEBgX5Ir4AYvz/H2QHhIQz/mMDjIyMnz59AgggRkfXjTmZOu/e/fz7D2jH/7///v398+8PkPEHCEHsv3///fn978+/f8JCnGWlWwACiGX/7jOmhiKPHn3+8wck8fvPv9+//wLRr1//wORfOCkvz8fAsAUggIB++AdxJ8iRQNf++f/rF8TZ/4B6fgEZQPIXRAEoLAACCKjhx9+/f/78+f0LaC/YbIjxyGaDSaCFvxgYvgAEEAs3r5qKqhAPLzs4GP4CnQR2G9CMf2A2iPEH7BNJSe5Tp8wAAojx58+fzMzM//79wxU4EACUBYbS27dvAQKI5R87O1NJCQPEjX//MvwGkn8Yf/8GRggCAY0DSgFt2bsXIIAYv6JGJJ44hgCAAAMA8pZimQIezaoAAAAASUVORK5CYII=" title="ไทย" alt="ไทย" /><span style="margin-left:0.3em;">ไทย</span></a></li>
+</ul>
+				</div>
+			</div>
+            <div class="clearfix"></div>
+		</div>
+	</div>
+	<div class="top-line" id="header_menu">
+		<div class="container2">
+						<a href="/" class="logo">
+				<img src="https://helixxmine.com/wp-content/themes/helixxmine/img/logo.png">
+			</a>
+			<a class="mobile-menu-toggle js-toggle-menu hamburger-menu" data-toggle="dropdown" href="#">
+				<span class="menu-item"></span>
+				<span class="menu-item"></span>
+				<span class="menu-item"></span>
+			</a>
+			<nav class="mobile-nav-wrap" role="navigation">
+				<ul class="mobile-header-nav">
+					<li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-5"><a href="/">Home</a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://helixxmine.com/how-it-works/">How it works</a></li>
+<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="https://helixxmine.com/shopsite/">Shop</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/affiliate/">Affiliate</a></li>
+<li id="menu-item-484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-484"><a href="https://helixxmine.com/news/">News</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-61"><a href="https://helixxmine.com/about-us/">About us</a>
+<ul class="sub-menu">
+	<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://helixxmine.com/contact-us/">CONTACT US</a></li>
+</ul>
+</li>
+<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://helixxmine.com/faq/">FAQ</a></li>
+				</ul>
+			</nav>
+			<div class="clearfix"></div>
+		</div>
+	</div>
+</header><section id="main_baner">
+    <div class="container">
+        <h1>START  BITCOIN  MINING  TODAY!</h1>
+        <h3>Calculate your own profit now:</h3>
+        <div class="calc col-xs-12 col-sm-12 col-md-8 col-lg-8 col-lg-offset-2 col-md-offset-2">
+                <div class="top_calc">
+                    <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 invest_box_text">
+                        INVEST: $ <span class="invest_calc">0.00</span>
+                    </div>
+                    <div class="col-xs-12 col-sm-5 col-md-5 col-lg-5 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 invest_box_text">
+                        EARN: $ <span class="invest_calc2">0.00</span>/Month                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="slider_box">
+                    <div id="slider"></div>
+                </div>
+                        <script>
+                $( function() {
+                    function calc($val) {
+                        $('.invest_calc').text($val);
+
+
+                        $in_day = $('.type_cript > button.active').attr('in_day');
+
+                        $price = $('.type_cript > button.active').attr('price');
+                        $name = $('.type_cript > button.active').attr('name');
+                        $hash_text = $('.type_cript > button.active').attr('hash');
+                        $curs = $('.type_cript > button.active').attr('curs');
+                        $year = $('.type_cript > button.active').attr('year');
+
+                        $('.years_calc').text($year+" Years");
+
+                        $hash =  $val / $price;
+                        $('.hashrate_calc').text($hash.toFixed(2) + ' '+$hash_text);
+                        $earn = $hash * $in_day * 30 * $curs;
+                        $('.shus_cript_calc').text($name);
+                        $('.invest_calc2').text($earn.toFixed(2));
+                    }
+                    $( "#slider" ).slider({
+                        value:0,
+                        min: 0,
+                        max: 10000,
+                        step: 10,
+                        slide: function( event, ui ) {
+                            calc(ui.value);
+                        }
+                    });
+                   $('#slider').draggable();
+
+                    $('.type_cript > button').click(function (e) {
+                        e.preventDefault();
+                        $('.type_cript > button').removeClass('active');
+                        $(this).addClass('active');
+                        var val = $('#slider').slider("option", "value");
+                        calc(val);
+                    });
+                } );
+            </script>
+                <div class="type_cript">
+                    <button class="active dash" name="Multi" price="0.015" in_day="0.00000052" hash="MH/s" curs="237.356" year="1"><img src="https://helixxmine.com/wp-content/themes/helixxmine/img/multi.png"><span>LIMITED OFFER</span></button>
+                    <button class="btc" name="bitcoin" price="0.10" in_day="0.00000004" hash="GH/s" curs="6430.56158398" year="2"><img src="https://helixxmine.com/wp-content/themes/helixxmine/img/btc.png"></button>
+                    <button class="eth" name="ethereum" price="0.011" in_day="0.00000007" hash="kH/s" curs="277.297201727" year="2"><img src="https://helixxmine.com/wp-content/themes/helixxmine/img/eth.png"></button>
+                    <button class="monero" name="monero" price="0.35" in_day="0.00000607" hash="H/s" curs="93.1058483168" year="2"><img src="https://helixxmine.com/wp-content/themes/helixxmine/img/monero.png"></button>
+                    <button class="zec" name="zec" price="0.92" in_day="0.00000816" hash="Sols/s" curs="131.841001689" year="2"><img src="https://helixxmine.com/wp-content/themes/helixxmine/img/zec.png"></button>
+                  <!--  <button class="ltc" name="litecoin" price="3.49" in_day="0.00005697" hash="MH/s" curs="55.0663768895" year="2"><img src="https://helixxmine.com/wp-content/themes/helixxmine/img/ltc.png"></button>-->
+                    <button class="bch" name="bitcoin cash" price="0.09" in_day="0.00000050" hash="GH/s" curs="525.059463906" year="2"><img src="https://helixxmine.com/wp-content/themes/helixxmine/img/bch.png"></button>
+
+                   <!-- <button class="dash" name="dash" price="0.12" in_day="0.00000056" hash="MH/s" curs="140.595223246" year="2"><img src="https://helixxmine.com/wp-content/themes/helixxmine/img/dash.png"></button>-->
+
+
+                </div>
+                <div class="foot_calc">
+                    <div class="col-xs-6 col-sm-5 col-md-5 col-lg-5 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 invest_box_text">
+                        <span class="shus_cript_calc">Multi</span>: <span class="hashrate_calc">0 MH/s</span>
+                    </div>
+                    <div class="col-xs-6 col-sm-5 col-md-5 col-lg-5 col-lg-offset-1 col-md-offset-1 col-sm-offset-1 invest_box_text">
+                        CONTRACT: <span class="years_calc">1 Years</span>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="battons_calc">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 battons_calc_box">
+                                                <a href="https://helixxmine.com/how-it-works/" class="bo_bg_btn">HOW DOES IT WORK?</a>
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 battons_calc_box">
+                        <a href="http://user.helixxmine.com/reg" class="yellow_btn">INVEST MONEY NOW!</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+
+        </div>
+        <div class="clearfix"></div>
+        <p>*The calculator displays forecasted ROI calculations subject to daily changes in market value and hashrate</p>
+        <div class="promo_btn">
+            <a href="http://user.helixxmine.com/reg">300GH/s <span>FREE</span></a>
+        </div>
+    </div>
+</section>
+<section id="we_accept">
+    <div class="container2">
+        <h3>Payments We Accept</h3>
+        <div class="imgs">
+            <img src="https://helixxmine.com/wp-content/themes/helixxmine/img/accept/pp.png">
+            <img src="https://helixxmine.com/wp-content/themes/helixxmine/img/accept/ms.png">
+            <img src="https://helixxmine.com/wp-content/themes/helixxmine/img/accept/visa.png">
+            <img src="https://helixxmine.com/wp-content/themes/helixxmine/img/accept/btc.png">
+            <img src="https://helixxmine.com/wp-content/themes/helixxmine/img/accept/eth.png">
+            <img src="https://helixxmine.com/wp-content/themes/helixxmine/img/accept/ltc.png">
+            <img src="https://helixxmine.com/wp-content/themes/helixxmine/img/accept/dash.png">
+        </div>
+    </div>
+</section>
+<section id="main_options">
+    <div class="container2">
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <img src="https://helixxmine.com/wp-content/uploads/2018/03/in1.png">                <h3>Managed Cloud Mining</h3>
+                <p><p>Invest in a fully managed Altcoin and Bitcoin cloud mining service, your earnings begin the moment your contract is activated. With our cryptocoin mining calculator it&#8217;s easy to see how much you could earn, no experience in cryptocurrency mining is needed and we are ready to assist you at any time!</p>
+</p>
+                                </div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <img src="https://helixxmine.com/wp-content/uploads/2018/03/in2.png">                <h3>Become an Affiliate Partner</h3>
+                <p><p>Join our Affiliate program and receive 5% bonus while your investor receives 3% extra on their first contract! Or develop your investor network and earn up to 5.8% only from your first referrals!</p>
+</p>
+                                </div>
+        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <img src="https://helixxmine.com/wp-content/uploads/2018/03/in3.png">                <h3>Shop &#8211; Mining Hardware</h3>
+                <p><p>Buy your own mining machine from Helixxmine. We use only the highest quality components and all our mining machines are built on site by our professional technicians. Feel free to contact us to discuss your requirements.</p>
+</p>
+                                </div>
+        <div class="clearfix"></div>
+    </div>
+</section>
+<section id="main_rig">
+    <div class="container2">
+            <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                                    <h3>Flexible investment in Altcoin and Bitcoin mining</h3>
+                    <p><p>HelixxMine offers a fully managed service of Altcoin and Bitcoin mining for novice investors and expert miners alike. Our services range from selling high quality mining hardware to providing a managed cloud mining service for clients who want a transparent and safe way to profit from Altcoin and Bitcoin mining.</p>
+<p>&nbsp;</p>
+<h3>Start earning cryptocurrency today!</h3>
+<p>Investing in cryptocoin mining has never been easier – with the HelixxMine coin mining calculator it is easy to forecast your profit before investing. Choose the amount you are comfortable to invest and see your profit forecast immediately. As soon as you have set up your account you can start earning your first coins from our cloud mining service.</p>
+</p>
+            </div>
+                            <div class="hidden-sm hidden-xs col-md-4 col-lg-4">
+                    <img src="https://helixxmine.com/wp-content/uploads/2018/07/mainer1.png">
+                </div>
+                    <div class="clearfix"></div>
+        <p class="center-block">
+            <a href="http://user.helixxmine.com/reg" class="yellow_btn">SIGN UP TODAY!</a>
+        </p>
+        </div>
+</section>
+<section id="main_pr">
+    <div class="container">
+        <h2>Get started</h2>
+        <h3>with coin mining and generate your own coins.</h3>
+        <h3>HelixxMine is an A-to-Z altcoin and Bitcoin cloud mining service</h3>
+    </div>
+</section>
+<section id="main_affiate">
+    <div class="container">
+        <h3>Become an Affiliate Partner</h3>
+        <p>Once you have invested in cloud mining and begun earning, you might feel inclined to share this opportunity with others. HelixxMine offers a profitable Affiliate Partner program for those who invite others and start earning more profits together with their investor network.</p>
+        <p class="center-block">
+                        <a href="https://helixxmine.com/contact-us/" class="yellow_btn">CONTACT US</a>
+        </p>
+    </div>
+</section>
+<footer>
+	<div class="container2">
+		<img src="https://helixxmine.com/wp-content/themes/helixxmine/img/foot_logo.png">
+		<p>615, 7 Baltimore wharf, London, E149EY, UNITED KINGDOM<br>Registered in ENGLAND, Number 11350738<br>+44 20 3936 3193</p>
+		<nav class="mobile-nav-wrap" role="navigation2">
+			<ul class="mobile-header-nav2">
+				<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-5"><a href="/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://helixxmine.com/how-it-works/">How it works</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="https://helixxmine.com/shopsite/">Shop</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/affiliate/">Affiliate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-484"><a href="https://helixxmine.com/news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-61"><a href="https://helixxmine.com/about-us/">About us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://helixxmine.com/contact-us/">CONTACT US</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://helixxmine.com/faq/">FAQ</a></li>
+			</ul>
+		</nav>
+	</div>
+	<div class="container2">
+		<div id="terms">
+							<a href="https://helixxmine.com/terms-and-conditions/">Terms and Conditions</a>
+						
+							<a href="https://helixxmine.com/privacy-policy/">Privacy Policy</a>
+								</div>
+	</div>
+	<!-- Quantcast Tag -->
+	<script type="text/javascript">
+		var _qevents = _qevents || [];
+
+		(function() {
+			var elem = document.createElement('script');
+			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+			elem.async = true;
+			elem.type = "text/javascript";
+			var scpt = document.getElementsByTagName('script')[0];
+			scpt.parentNode.insertBefore(elem, scpt);
+		})();
+
+		_qevents.push({
+			qacct:"p-hT12TVqh0tyqw"
+		});
+	</script>
+
+	<noscript>
+		<div style="display:none;">
+			<img src="//pixel.quantserve.com/pixel/p-hT12TVqh0tyqw.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+	</noscript>
+	<!-- End Quantcast tag -->
+
+</footer>
+<div id="cookie-law-info-bar"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.<a href="#" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button" >Accept</a> <a href="https://helixxmine.com/privacy-policy/" id="CONSTANT_OPEN_URL" target="_blank"  class="cli-plugin-main-link"  >Read More</a></span></div><div id="cookie-law-info-again"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div>		
+		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				cli_show_cookiebar({
+					settings: '{"animate_speed_hide":"500","animate_speed_show":"500","background":"#fff","border":"#444","border_on":true,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":true,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000"}'
+				});
+			});
+			//]]>
+		</script>
+		
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/helixxmine.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://helixxmine.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='https://helixxmine.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type="text/javascript">
+	adroll_adv_id = "25ECX2Q45NF57ACADAHO6Z";
+	adroll_pix_id = "DZ6DPIMFLZDZJPBIXU4VRD";
+	/* OPTIONAL: provide email to improve user identification */
+	/* adroll_email = "username@example.com"; */
+	(function () {
+		var _onload = function(){
+			if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+			if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+			var scr = document.createElement("script");
+			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+			scr.setAttribute('async', 'true');
+			scr.type = "text/javascript";
+			scr.src = host + "/j/roundtrip.js";
+			((document.getElementsByTagName('head') || [null])[0] ||
+			document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+		};
+		if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+		else {window.attachEvent('onload', _onload)}
+	}());
+</script>
+</body>
+</html>
+
